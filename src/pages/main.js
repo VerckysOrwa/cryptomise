@@ -6,7 +6,7 @@ const Axios = require("axios");
 const Main = () => {
   const [cryptos, setCryptos] = useState([]);
   const showCryptos = () =>
-    Axios.get("https://cryptolize.herokuapp.com//cryptoprice").then(
+    Axios.get("https://cryptolize.herokuapp.com/cryptoprice").then(
       (response) => {
         let crypto = response.data;
         setCryptos(crypto);
