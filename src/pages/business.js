@@ -6,7 +6,7 @@ const Axios = require('axios');
 const Business = () => {
     const [news, setNews] = useState([])
     
-    Axios.get("http://localhost:3003/stocknews").then((response) => {
+    Axios.get("https://cryptolize.herokuapp.com/stocknews").then((response) => {
         let newsData = response.data;
 setNews(newsData)
     })
