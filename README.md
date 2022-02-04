@@ -6,9 +6,9 @@
 - [Non-functional-requirements](#non-functional-requirements)
 - [Technologies-used](#technologies-used)
 - [Challenges-encountered](#challenges)
+- [Visit The Project](#link-to-project)
 
 
-### https://cryptomise.netlify.app/
 ## What is cryptomise?
 Cryptomise is an online based business website that updates users on the top 10 crypto currency prices and statistics while serving its users with the most trending news in the world of business market.
 
@@ -31,4 +31,6 @@ Cryptomise is an online based business website that updates users on the top 10 
 ## Challenges
 - Optimizing the speed of the response data from the server.
 
+## link to project
+### https://cryptomise.netlify.app/
 
