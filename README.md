@@ -29,7 +29,7 @@ Cryptomise is an online based business website that updates users on the top 10 
 - Express framework
 
 ## Challenges
-- Optimizing the speed of the response data from the server.
+- Optimizing the speed of the response data from the server is a challenge but i managed to optimize the response time to not more than 30 seconds and 60 seconds at most
 
 ## link to project
 ### https://cryptomise.netlify.app/
