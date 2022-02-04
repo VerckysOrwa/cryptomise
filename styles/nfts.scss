@@ -1,0 +1,27 @@
+@import "__resets" ;
+.nfts {
+  display: flex;
+  justify-content: center;
+  background:url('../images/tezos-txkG2_7S7lw-unsplash.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height:100vh;
+}
+#nft-holder{
+    display: flex;
+  justify-content: center;
+    opacity: 90%;
+    margin: 3em 2em 2em 2em;
+    color: rgb(230, 220, 220);
+font:3em verdana;
+}
+
+@media only screen and(max-width:750px){
+    #nft-holder>h1{
+        font-size: auto;
+        
+    }
+    #nft-holder{
+        width: 100%;
+    }
+}
