@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.67288d8d.css",
+    "main.js": "/static/js/main.f2c738ee.js",
+    "static/media/tezos-txkG2_7S7lw-unsplash.jpg": "/static/media/tezos-txkG2_7S7lw-unsplash.38dff3855a9b6ecf31ab.jpg",
+    "index.html": "/index.html",
+    "main.67288d8d.css.map": "/static/css/main.67288d8d.css.map",
+    "main.f2c738ee.js.map": "/static/js/main.f2c738ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67288d8d.css",
+    "static/js/main.f2c738ee.js"
+  ]
+}
